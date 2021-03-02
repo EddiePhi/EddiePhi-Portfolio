@@ -17,7 +17,7 @@
     "description": "An all-in-one app that gathers data for hiking trips.",
     "role": "Lead Developer for API integration. Used AJAX to grab JSON data and to integrate with the UI.",
     "techUsed": "JavaScript, jQuery, Third-Party APIs",
-    "imgSrc": ""
+    "imgSrc": "../assets/project-images/plot-of-gold.png"
   },
   {
     "id": "third",
@@ -27,7 +27,7 @@
     "description": "An app that saves notes. Users can add and delete notes as they wish.",
     "role": "Lead Developer. Developed backend code to link existing UI to a locally developed database.",
     "techUsed": "JavaScript, jQuery, Node, mySQL",
-    "imgSrc": ""
+    "imgSrc": "../assets/project-images/plot-of-gold.png"
   },
   {
     "id": "fourth",
@@ -37,7 +37,7 @@
     "description": "",
     "role": "",
     "techUsed": "",
-    "imgSrc": ""
+    "imgSrc": "../assets/project-images/plot-of-gold.png"
   },
   {
     "id": "fifth",
@@ -47,7 +47,7 @@
     "description": "",
     "role": "",
     "techUsed": "",
-    "imgSrc": ""
+    "imgSrc": "../assets/project-images/plot-of-gold.png"
   },
   {
     "id": "sixth",
@@ -57,6 +57,6 @@
     "description": "",
     "role": "",
     "techUsed": "",
-    "imgSrc": ""
+    "imgSrc": "../assets/project-images/plot-of-gold.png"
   }
 ]

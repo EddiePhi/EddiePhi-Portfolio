@@ -1,14 +1,24 @@
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import {Card, Button, Modal} from "react-bootstrap";
+// import {image1, image2, image3, image4, image5, image6} from "../../image.js"
 
 
 function Project(props) {
   const [lgShow, setLgShow] = useState(false);
+  console.log(props)
 
+  // const [image, setImage] = useState();
+
+  // useEffect(async () => {
+  //   const img = await import(props.imgSrc).default
+  //   setImage(img)
+  // },[])
+  
   return (
     <>
       <Card className="mx-3 my-3 d-flex justify-content-center" style={{ width: '18rem' }}>
-        <Card.Img variant="top" src={props.imgSrc} />
+        {/* <Card.Img variant="top" src={image} /> */}
+        <img src={""}/>
           <Card.Body>
             <Card.Title>{props.name}</Card.Title>
             <Card.Text>

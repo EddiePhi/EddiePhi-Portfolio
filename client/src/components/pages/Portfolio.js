@@ -20,6 +20,8 @@ function Portfolio() {
               techUsed={projects[0].techUsed}
               imgSrc={projects[0].imgSrc}
             />
+          </Col>
+          <Col>
             <Project
               name={projects[1].name}
               deployed={projects[1].deployed}
@@ -27,7 +29,10 @@ function Portfolio() {
               description={projects[1].description}
               role={projects[1].role}
               techUsed={projects[1].techUsed}
+              imgSrc={projects[1].imgSrc}
             />
+          </Col>
+          <Col>
             <Project
               name={projects[2].name}
               deployed={projects[2].deployed}
@@ -35,7 +40,10 @@ function Portfolio() {
               description={projects[2].description}
               role={projects[2].role}
               techUsed={projects[2].techUsed}
+              imgSrc={projects[2].imgSrc}
             />
+          </Col>
+          <Col>
             <Project
               name={projects[3].name}
               deployed={projects[3].deployed}
@@ -43,7 +51,10 @@ function Portfolio() {
               description={projects[3].description}
               role={projects[3].role}
               techUsed={projects[3].techUsed}
+              imgSrc={projects[3].imgSrc}
             />
+          </Col>
+          <Col>
             <Project
               name={projects[4].name}
               deployed={projects[4].deployed}
@@ -51,7 +62,10 @@ function Portfolio() {
               description={projects[4].description}
               role={projects[4].role}
               techUsed={projects[4].techUsed}
+              imgSrc={projects[4].imgSrc}
             />
+          </Col>
+          <Col>
             <Project
               name={projects[5].name}
               deployed={projects[5].deployed}
@@ -59,6 +73,7 @@ function Portfolio() {
               description={projects[5].description}
               role={projects[5].role}
               techUsed={projects[5].techUsed}
+              imgSrc={projects[5].imgSrc}
             />
           </Col>
         </Row>
