@@ -1,0 +1,62 @@
+[
+  {
+    "id": "first",
+    "name": "Plot Of Gold",
+    "deployed": "https://eddiephi-plots-of-gold.herokuapp.com/",
+    "gitHub": "https://github.com/EddiePhi/Gardening-App",
+    "description": "An app that provides tools for new and experienced gardeners.",
+    "role": "Lead UI Developer for landing page and forecast page. Used Bulma CSS and NES CSS frameworks to develop aesthetics, and JS GET requests to pull data from an internal mySQL database.",
+    "techUsed": "Bulma CSS, NES.css, JavaScript, jQuery, Node, NPM (Sequelize, Fetch), mySQL",
+    "imgSrc": "../assets/project-images/plot-of-gold.png"
+  },
+  {
+    "id": "second",
+    "name": "Hiker Helper",
+    "deployed": "https://eddiephi.github.io/HikerHelper",
+    "gitHub": "https://github.com/EddiePhi/HikerHelper",
+    "description": "An all-in-one app that gathers data for hiking trips.",
+    "role": "Lead Developer for API integration. Used AJAX to grab JSON data and to integrate with the UI.",
+    "techUsed": "JavaScript, jQuery, Third-Party APIs",
+    "imgSrc": ""
+  },
+  {
+    "id": "third",
+    "name": "Note Taker",
+    "deployed": "https://eddiephi-note-taker.herokuapp.com/",
+    "gitHub": "https://github.com/EddiePhi/Note-Taker",
+    "description": "An app that saves notes. Users can add and delete notes as they wish.",
+    "role": "Lead Developer. Developed backend code to link existing UI to a locally developed database.",
+    "techUsed": "JavaScript, jQuery, Node, mySQL",
+    "imgSrc": ""
+  },
+  {
+    "id": "fourth",
+    "name": "",
+    "deployed": "",
+    "gitHub": "",
+    "description": "",
+    "role": "",
+    "techUsed": "",
+    "imgSrc": ""
+  },
+  {
+    "id": "fifth",
+    "name": "",
+    "deployed": "",
+    "gitHub": "",
+    "description": "",
+    "role": "",
+    "techUsed": "",
+    "imgSrc": ""
+  },
+  {
+    "id": "sixth",
+    "name": "",
+    "deployed": "",
+    "gitHub": "",
+    "description": "",
+    "role": "",
+    "techUsed": "",
+    "imgSrc": ""
+  }
+]
