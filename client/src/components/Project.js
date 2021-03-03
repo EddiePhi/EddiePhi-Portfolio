@@ -1,28 +1,29 @@
-import React, {useEffect, useState} from "react";
+import React, {useState} from "react";
 import {Card, Button, Modal} from "react-bootstrap";
-// import {image1, image2, image3, image4, image5, image6} from "../../image.js"
+
 
 
 function Project(props) {
   const [lgShow, setLgShow] = useState(false);
-  console.log(props)
 
-  // const [image, setImage] = useState();
-
-  // useEffect(async () => {
-  //   const img = await import(props.imgSrc).default
-  //   setImage(img)
-  // },[])
   
   return (
     <>
-      <Card className="mx-3 my-3 d-flex justify-content-center" style={{ width: '18rem' }}>
-        {/* <Card.Img variant="top" src={image} /> */}
-        <img src={""}/>
+      <Card className="mx-3 my-3 d-flex justify-content-center" style={{ width: '18rem', height: '24rem' }}>
+        <Card.Img variant="top" src={props.imgSrc} />
           <Card.Body>
             <Card.Title>{props.name}</Card.Title>
             <Card.Text>
-              <p>{props.description}</p>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
             </Card.Text>
             <Button variant="primary" onClick={() => setLgShow(true)}>Details</Button>
           </Card.Body>
@@ -40,6 +41,8 @@ function Project(props) {
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
+          <p><b>Deployed link:</b> <a href={props.deployed}>Click here</a></p>
+          <p><b>GitHub link:</b> <a href={props.gitHub}>Click here</a></p>
           <p><b>Description:</b> {props.description}</p>
           <p><b>Role:</b> {props.role}</p>
           <p><b>Technologies used:</b> {props.techUsed}</p>
