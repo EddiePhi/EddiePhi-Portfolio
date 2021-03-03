@@ -19,14 +19,7 @@ function Contact() {
       <Container>
         <Row>
           <Col>
-            <div className="d-flex justify-content-center mx-3 my-3">
-              <img
-              src={ContactImg}
-              className="img-fluid"
-              alt={"Contact"}
-              />
-            </div>
-            <div className="d-flex justify-content-center mt-3 ml-3 mr-3 ml-3">
+          <div className="d-flex justify-content-center mt-3 ml-3 mr-3 ml-3">
               <a style={contact.style} href={contact.linkedIn}>
                 Here's my LinkedIn.
               </a>
@@ -37,6 +30,13 @@ function Contact() {
               <a style={contact.style} href={contact.resume}>
                 Here's my Resume.
               </a>
+            </div>
+            <div className="d-flex justify-content-center mx-3 my-3">
+              <img
+              src={ContactImg}
+              className="img-fluid"
+              alt={"Contact"}
+              />
             </div>
             <div className="d-flex justify-content-center mt-3 mb-3">
               <p>
