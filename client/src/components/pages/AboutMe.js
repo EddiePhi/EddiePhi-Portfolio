@@ -38,6 +38,7 @@ function AboutMe() {
             </div>
             <br />
             <br />
+            <br />
           </Col>
         </Row>
       </Container>
