@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {Card, Button, Modal} from "react-bootstrap";
+import {Card, Button, Modal, Container, Row, Col} from "react-bootstrap";
 
 
 
@@ -9,23 +9,22 @@ function Project(props) {
   
   return (
     <>
-      <Card className="mx-3 my-3 d-flex justify-content-center" style={{ width: '18rem', height: '24rem' }}>
-        <Card.Img variant="top" src={props.imgSrc} />
+      <Card className="mx-3 my-3 d-flex justify-content-center" style={{ width: '19rem', height: '21rem' }}>
+        
           <Card.Body>
-            <Card.Title>{props.name}</Card.Title>
+            <Container>
+              <Row>
+                <Col style={{ padding: "0px"}} className="col-8">
+                  <Card.Title >{props.name}</Card.Title>
+                </Col>
+                <Col className="float-right col-4">
+                  <Button variant="primary"onClick={() => setLgShow(true)}>Details</Button>
+                </Col>
+              </Row>
+            </Container>
             <Card.Text>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
-              <br/>
+              <Card.Img variant="top" className="mt-3 img-fluid" src={props.imgSrc} />
             </Card.Text>
-            <Button variant="primary" onClick={() => setLgShow(true)}>Details</Button>
           </Card.Body>
       </Card>
 

@@ -7,7 +7,7 @@
     "description": "An app that provides tools for new and experienced gardeners.",
     "role": "Lead UI Developer for landing page and forecast page. Used Bulma CSS and NES CSS frameworks to develop aesthetics, and JS GET requests to pull data from an internal mySQL database.",
     "techUsed": "Bulma CSS, NES.css, JavaScript, jQuery, Node, NPM (Sequelize, Fetch), mySQL",
-    "imgSrc": "../assets/project-images/plot-of-gold.png"
+    "imgSrc": "https://i.imgur.com/A7FzQ8g.png"
   },
   {
     "id": "second",
@@ -17,7 +17,7 @@
     "description": "An all-in-one app that gathers data for hiking trips.",
     "role": "Lead Developer for API integration. Used AJAX to grab JSON data and to integrate with the UI.",
     "techUsed": "JavaScript, jQuery, Third-Party APIs",
-    "imgSrc": "../assets/project-images/hiker-helper.png"
+    "imgSrc": "https://i.imgur.com/CNAAcpO.jpg"
   },
   {
     "id": "third",
@@ -27,17 +27,17 @@
     "description": "An app that saves notes. Users can add and delete notes as they wish.",
     "role": "Lead Developer. Developed backend code to link existing UI to a locally developed database.",
     "techUsed": "JavaScript, jQuery, Node, mySQL",
-    "imgSrc": "../assets/project-images/note-taker.png"
+    "imgSrc": "https://i.imgur.com/g9dbu9T.png"
   },
   {
     "id": "fourth",
-    "name": "Progressive Budget Tracker",
+    "name": "Budget Tracker",
     "deployed": "https://eddiephi-progressive-budget.herokuapp.com/",
     "gitHub": "https://github.com/EddiePhi/Progressive-Budget-Tracker",
     "description": "A budget app with offline funcitonality.",
     "role": "Lead Backend Developer. Linked existing UI to a locally developed database.",
     "techUsed": "JavaScript, Node, NPM, Express, mongoDB, Service Workers, Webpack, Web Manifests",
-    "imgSrc": "../assets/project-images/pwa-budget-app.png"
+    "imgSrc": "https://i.imgur.com/Nvra1Rl.png"
   },
   {
     "id": "fifth",
@@ -47,16 +47,16 @@
     "description": "An app to add new exercises and track their progress.",
     "role": "Lead Backend Developer. Linked existing UI to a locally developed database.",
     "techUsed": "JavaScript, Node, NPM, Express, mongoDB",
-    "imgSrc": "../assets/project-images/workout-tracker.png"
+    "imgSrc": "https://i.imgur.com/MLV2Fo1.png"
   },
   {
     "id": "sixth",
-    "name": "Work Day Scheduler",
+    "name": "Day Scheduler",
     "deployed": "https://eddiephi.github.io/Work-Day-Scheduler/",
     "gitHub": "https://github.com/EddiePhi/Work-Day-Scheduler",
     "description": "An app that keeps track of notes for each hour of the day.",
     "role": "Lead UI Developer. Built UI and JS/React off of existing code.",
     "techUsed": "HTML5, CSS3, Bootstrap, JavaScript",
-    "imgSrc": "../assets/project-images/work-day-scheduler.png"
+    "imgSrc": "https://i.imgur.com/Yiw9CA4.png"
   }
 ]

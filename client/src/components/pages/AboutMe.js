@@ -42,6 +42,9 @@ function AboutMe() {
           </Col>
         </Row>
       </Container>
+      <br/>
+      <br/>
+      <br/>
     </>
   );
 }
