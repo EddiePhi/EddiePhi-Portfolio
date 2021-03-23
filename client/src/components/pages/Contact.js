@@ -10,7 +10,7 @@ function Contact() {
     linkedIn: "https://www.linkedin.com/in/eddiephi/",
     gitHub: "https://github.com/EddiePhi",
     resume:
-    "https://drive.google.com/file/d/1NLoLjdLk3EpaCxDsRGOmVSPKp12sal4n/view?usp=sharing"
+    "https://drive.google.com/file/d/1-XU5DTzFPMKaiAkPEajxMSYPKd1M_PH_/view?usp=sharing"
   });
   return (
     <>
