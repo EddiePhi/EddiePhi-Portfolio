@@ -5,7 +5,7 @@
     "deployed": "https://plotofgold.herokuapp.com/",
     "gitHub": "https://github.com/EddiePhi/Plot-Of-Gold",
     "description": "An app that provides tools for new and experienced gardeners.",
-    "role": "Lead UI Developer for landing page and forecast page. Used Bulma CSS and NES CSS frameworks to develop aesthetics, and JS GET requests to pull data from an internal mySQL database.",
+    "role": "Lead Developer for landing page and user authentication pages. Used React Router and built React components to authenticate users.",
     "techUsed": "Bootstrap, JavaScript, Node, NPM, React, Express, MongoDB",
     "imgSrc": "https://i.imgur.com/I45tie9.png"
   },
