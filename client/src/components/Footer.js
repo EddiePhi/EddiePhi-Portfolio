@@ -15,7 +15,7 @@ function Footer() {
           textAlign: "center"
         }}
       >
-        <p className="mt-3">© 2021 | Eddie Phimansone | All Rights Reserved</p>
+        <p className="mt-3">© 2022 | Eddie Phimansone | All Rights Reserved</p>
       </div>
     </>
   );

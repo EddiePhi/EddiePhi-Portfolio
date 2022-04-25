@@ -10,7 +10,7 @@ function Contact() {
     linkedIn: "https://www.linkedin.com/in/eddiephi/",
     gitHub: "https://github.com/EddiePhi",
     resume:
-    "https://drive.google.com/file/d/1Yfsif9Wbkfrc8-9Pk3J9463aFYbIFHri/view?usp=sharing"
+    "https://drive.google.com/file/d/1uOACbGdcGVModLK1cff5tp5SbHlVvpGl/view?usp=sharing"
   });
   return (
     <>
@@ -40,7 +40,7 @@ function Contact() {
             </div>
             <div className="d-flex justify-content-center mt-3 mb-3">
               <p>
-                Currently residing in Newmarket, New Hampshire. To reach me, send an
+                Currently residing in Hampton, New Hampshire. To reach me, send an
                 email to ephimansone@gmail.com or leave a voicemail on my cell: (603)
                 343-8622. I'm always happy to connect!
               </p>
