@@ -3,7 +3,7 @@
 
 -------------------------------------------------- Personal Notes -------------------------------------------------
 
-Deployed Link: https://eddiephi-react-portfolio.herokuapp.com/
+Deployed Link: https://eddiephi-react-portfolio.herokuapp.com/ (Link is down due to some Heroku issues. Sorry!)
 
 Description:
 A recreation of my previous portfolio, this time user React as part of the front-end stack.
